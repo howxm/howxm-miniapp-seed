@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "howxm-widget": "plugin://howxm-plugin/howxm-widget"
+  }
+}
